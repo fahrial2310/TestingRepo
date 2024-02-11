@@ -22,7 +22,7 @@
 
 ### 💜 Heroku
 
-[![Deploy]https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fahrial2310/TestingRepo
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fahrial2310/TestingRepo)
 
 Get Pyrogram (p) Session from here:
 
