@@ -1,7 +1,7 @@
 <h1 align="centre">ALVINMUSICROBOT 🎵</h1>
 
 ### Bot That can play music on telegram groups and voice chat channels
-###available on telegram as [@alvin_junior](https://t.meAlvin_junior)
+### available on telegram as [@alvin_junior](https://t.meAlvin_junior)
 
 <p align="center"><img src="https://telegra.ph/file/bafb2f48ede7eb08fd329.jpg"></p>
 
@@ -31,15 +31,15 @@ Get Pyrogram (p) Session from here:
 ### ⚔️ Self-Hosting (For Devs) sh
 #Install Git first (apt-get install git)
 $ git clone https://github.com/fahrial2310/TestingRepo
-$cd AlvinMusicRobot
-#Upgrade sources
-#install all requirements
+$ cd AlvinMusicRobot
+### Upgrade sources
+### install all requirements
 $ pip3 install -U -r requirements.txt
-#fork this repo and fill config.py vars with your own values. then start the bot
+#### #fork this repo and fill config.py vars with your own values. then start the bot
 $ python3 -m AlvinMusicRobot
 
 ### Command For Group 🛠
-####For all in group
+#### For all in group
 
 -/play <song name> or <reply to audio>
 -/dplay <song name>
